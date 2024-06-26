@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'AI and the Environment',  url: 'AI_and_the_environment'}
+- {name: 'AI and the Environment',  url: 'AI-and-the-environment'}
 - {name: 'Global Goals Experience', url: 'resources'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Documentation',      url: 'documentation'}
