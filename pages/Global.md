@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Global Goals Experience
-permalink: /Global-goals-experience
+permalink: /Global
 ---
 
 
