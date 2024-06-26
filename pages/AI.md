@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI and the Environment
-permalink: /AI-and-the-environment
+permalink: /AI
 ---
 AI and the Environment
 
