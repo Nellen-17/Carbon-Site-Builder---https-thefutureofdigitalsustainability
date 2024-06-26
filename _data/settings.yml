@@ -8,7 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'AI and the Environment',  url: 'AI-and-the-environment'}
-- {name: 'Global Goals Experience', url: 'resources'}
+- {name: 'Global Goals Experience', url: 'Global-goals-experience'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
 #- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
