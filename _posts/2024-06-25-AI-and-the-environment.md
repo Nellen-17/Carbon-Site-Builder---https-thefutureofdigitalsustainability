@@ -10,9 +10,7 @@ We can deliver CPD training for your staff or networks on AI and the environment
 
 ## Tables
 
-Community T ier          | Title 2               | Title 3               | Title 4
+Community T ier| BASIC| EXPANDED3           | Title 4
 --------------------- | :-------------------: | :-------------------- | --------------------:
 get in touch| lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem 
