@@ -10,7 +10,7 @@ We can deliver CPD training for your staff or networks on AI and the environment
 
 ## Tables
 
-Community T ier| BASIC| EXPANDED3           | Title 4
+Community  Tier|  BASIC| Expanded         | Custom
 --------------------- | :-------------------: | :-------------------- | --------------------:
-get in touch| lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem 
+get in touch|£1,000| £1,500     | Get in touch
+Discounts are available for community projects, non-profit organizations, and social enterprise. For organizations who would be otherwise unable to access this resource, we may be able to deliver free of charge, according to availability. | At the heart of the AI and the Environment half-day workshop is the Digital Sustainability Game, where you’ll explore the future impacts of digital technology on your organization and the wider world.  
