@@ -7,7 +7,7 @@ The Sustainability and Climate Advisory Network (SCAN) is a network of close col
 Climate Action Unit
 climateaction.tech
 Climate Clarity
-https://considerate.digital/
+[Considerate Digital](https://considerate.digital/)
 Digital Gene
 Digital Humanities Climate Coalition
 Ditch the Ordinary
