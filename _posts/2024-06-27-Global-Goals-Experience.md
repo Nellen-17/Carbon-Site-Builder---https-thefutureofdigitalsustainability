@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Goals Experience"
-author: "NH"
+author: "Sustainable Digital Futures"
 categories: Global
 tags: Global Goals Experience
 image: https://i.ibb.co/nLpr1zg/beans-and-boats.jpg
