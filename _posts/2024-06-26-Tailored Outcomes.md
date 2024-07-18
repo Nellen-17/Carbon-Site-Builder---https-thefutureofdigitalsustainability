@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tailored Outcomes"
-author: "NH"
+author: "Sustainable Digital Futures"
 categories: Tailored Outcomes
 tags: [Tailored,Outcomes]
 image: https://i.ibb.co/4VMmx00/Game-pic.jpg
