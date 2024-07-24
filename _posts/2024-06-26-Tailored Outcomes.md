@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Tailored Outcomes"
-author: "Sustainable Digital Futures"
+author: "NH"
 categories: Tailored Outcomes
 tags: [Tailored,Outcomes]
-image: https://i.ibb.co/4VMmx00/Game-pic.jpg
+image: cuba-1.jpg
 ---
 
 What are your challenges? Maybe you want to refresh your internal sustainability comms to better support behaviour change. Maybe you’re interested in improving the environmental impacts of your AI and IT operations. Maybe you want insight to help you connect with policymakers, investors, customers, and other external stakeholders. Maybe you have training needs that are very specific to your business model and sustainability journey. Or maybe you’re simply curious what an innovative, arts-led intervention could do for your sustainability agenda.
